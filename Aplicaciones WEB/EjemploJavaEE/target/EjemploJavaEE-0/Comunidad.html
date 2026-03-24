@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Nébula music</title>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <nav>
+            <a href="./index.html"><img src="./imgs/nebula-03.svg" height="80px"></a>
+            <a href="./about.html">Nosotros</a>
+            <a href="./registro.html">Registrate</a>
+            <a href="./comunidad.html">Comunidad</a>
+        </nav>
+
+        <header>
+            <h1>Registro de usuarios</h1>
+        </header>
+
+        <main>
+            <section>
+                <form name="form_nuevo_usuario" enctype="application/x-www-form-urlencoded">
+                    
+                    <div name="titulo">
+                        <h3>Nuevo usuario</h3>
+                        <span>Completa la información y envía tus datos</span>
+                    </div>
+                    
+                    <div name="nombre">
+                        <label for="txt_name">Nombre</label>
+                        <input id="txt_name" name="txt_name" type="text">
+                        <span>Tu nombre completo</span>
+                    </div>
+                    
+                    <div name="correo">
+                        <label for="txt_correo">Correo</label>
+                        <input id="txt_correo" name="txt_correo" type="email">
+                        <span>Tu correo para recibir notificaciones</span>
+                    </div>
+                    
+                    <div name="fechaNacimiento">
+                        <label for="txt_fechaNacimiento">Fecha de nacimiento</label>
+                        <input type="date" id="txt_dob" name="txt_fechaNacimiento">
+                        <span>Tu fecha de nacimiento</span>
+                    </div>
+                    
+                    <div name="password">
+                        <label for="txt_password">Contraseña</label>
+                        <input id="txt_password" name="txt_password" type="password">
+                        <span>Tu contraseña para acceder a tu cuenta</span>
+                    </div>
+                    
+                    <div name="pseudonimo">
+                        <label for="txt_pseudonimo">Pseudónimo</label>
+                        <input id="txt_pseudonimo" name="txt_pseudonimo" type="text">
+                        <span>Tu pseudónimo para identificarte por otros usuarios</span>
+                    </div>
+                    
+                    <div name="estado">
+                        <label for="rad_estado">Estado</label>
+                        <div name="radios_estado">
+                            <input type="radio" value="activo" id="rad_activo" name="rad_estado">
+                            <label for="rad_activo">Activo</label>
+                            <input type="radio" value="inactivo" id="rad_inactivo" name="rad_estado">
+                            <label for="rad_inactivo">Inactivo</label>
+                            <input type="radio" value="pendiente" id="rad_pendiente" name="rad_estado">
+                            <label for="rad_pendiente">Pendiente</label>
+                        </div>
+                    </div>
+                    
+                    <div name="cuenta">
+                        <label for="sel_cuenta">Cuenta</label>
+                        <select id="sel_cuenta" name="sel_cuenta">
+                            <option value="">-Selecciona-</option>
+                            <option value="gratis">Gratis</option>
+                            <option value="basica">Básica</option>
+                            <option value="premium">Premium</option>
+                        </select>
+                        <span>Tu tipo de cuenta para desbloquear características</span>
+                    </div>
+                    
+                    <div name="options">
+                        <button type="submit">Registrar</button>
+                        <button type="reset">Cancelar</button>
+                    </div>
+                </form>
+            </section>
+        </main>
+
+        <footer>
+            <div>
+                Síguenos en nuestras redes.
+                <div>
+                    <a href="www.instagram.com" target="_blank">Instagram</a>
+                    <a href="www.facebook.com" target="_blank">Facebook</a>
+                    <a href="www.tiktok.com" target="_blank">Tiktok</a>
+                </div>
+            </div>
+
+            Copyright Nébula 2025. 
+        </footer>
+
+    </body>
+</html>

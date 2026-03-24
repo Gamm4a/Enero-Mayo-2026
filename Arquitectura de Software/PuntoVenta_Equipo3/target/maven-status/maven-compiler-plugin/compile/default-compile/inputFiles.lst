@@ -1,0 +1,15 @@
+/Users/jesusgammaelsotoescalante/Documents/EM2026/Arquitectura de Software/PuntoVenta_Equipo3/src/main/java/Assembler/ProductoInteraccionEvent.java
+/Users/jesusgammaelsotoescalante/Documents/EM2026/Arquitectura de Software/PuntoVenta_Equipo3/src/main/java/Assembler/VentaErrorEvent.java
+/Users/jesusgammaelsotoescalante/Documents/EM2026/Arquitectura de Software/PuntoVenta_Equipo3/src/main/java/Assembler/VentaEvent.java
+/Users/jesusgammaelsotoescalante/Documents/EM2026/Arquitectura de Software/PuntoVenta_Equipo3/src/main/java/Assembler/VentaExitosaEvent.java
+/Users/jesusgammaelsotoescalante/Documents/EM2026/Arquitectura de Software/PuntoVenta_Equipo3/src/main/java/Controller/VentaController.java
+/Users/jesusgammaelsotoescalante/Documents/EM2026/Arquitectura de Software/PuntoVenta_Equipo3/src/main/java/Exception/CantitadCeroException.java
+/Users/jesusgammaelsotoescalante/Documents/EM2026/Arquitectura de Software/PuntoVenta_Equipo3/src/main/java/Exception/ProductoNoAsociadoException.java
+/Users/jesusgammaelsotoescalante/Documents/EM2026/Arquitectura de Software/PuntoVenta_Equipo3/src/main/java/Model/DetalleVenta.java
+/Users/jesusgammaelsotoescalante/Documents/EM2026/Arquitectura de Software/PuntoVenta_Equipo3/src/main/java/Model/Producto.java
+/Users/jesusgammaelsotoescalante/Documents/EM2026/Arquitectura de Software/PuntoVenta_Equipo3/src/main/java/Model/Venta.java
+/Users/jesusgammaelsotoescalante/Documents/EM2026/Arquitectura de Software/PuntoVenta_Equipo3/src/main/java/Observer/VentaObserver.java
+/Users/jesusgammaelsotoescalante/Documents/EM2026/Arquitectura de Software/PuntoVenta_Equipo3/src/main/java/View/DetalleVentaPanel.java
+/Users/jesusgammaelsotoescalante/Documents/EM2026/Arquitectura de Software/PuntoVenta_Equipo3/src/main/java/View/ProductoPanel.java
+/Users/jesusgammaelsotoescalante/Documents/EM2026/Arquitectura de Software/PuntoVenta_Equipo3/src/main/java/View/PuntoVentaGUI2.java
+/Users/jesusgammaelsotoescalante/Documents/EM2026/Arquitectura de Software/PuntoVenta_Equipo3/src/main/java/View/VentanaPago.java
